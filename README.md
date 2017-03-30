@@ -1,2 +1,3 @@
-# Rituals-Page-Objects
-Rituals Page Objects
+# Rituals Page Objects
+
+Hier wordt aan de Page Objects gewerkt.
